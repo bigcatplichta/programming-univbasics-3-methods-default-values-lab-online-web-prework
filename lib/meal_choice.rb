@@ -6,6 +6,8 @@ end
 def print_return(msg, x=10)
   if x < 0 then
     msg = "Why would you do this!!!!: #{msg}"
+  else
+    retun msg
   end
   puts msg
   msg
