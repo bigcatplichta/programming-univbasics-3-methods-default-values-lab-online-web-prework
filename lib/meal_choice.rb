@@ -5,3 +5,6 @@ def meal_choice(veg1, veg2, protein = "meat")
   final_menu
 end
 
+def retun_print()
+  
+end
